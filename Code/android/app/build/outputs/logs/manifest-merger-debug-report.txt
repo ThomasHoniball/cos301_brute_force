@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
-MERGED from [:react-native-firebase] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
-MERGED from [:react-native-gesture-handler] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\8a3f7d2f1ac9b6d59e2f15b36bf31354\AndroidManifest.xml:2:1-13:12
+ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-firebase] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:react-native-gesture-handler] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\165d4dbaabfbd697f94b61343e2e7ba2\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\41d9a02251b33efed469e1d05fc4fe24\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\378867e0c9421f74368a5c56ad7eccf8\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.4.aar\03b298171fe66bbec0e24c67611e165d\AndroidManifest.xml:15:1-25:12
@@ -62,27 +62,27 @@ MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\khoda\.gradle\ca
 MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\c9e41a42bd41380bb786c32c8fc24563\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\2a5d801a8aebe0ac40bfd436bf5ca78d\AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\1a686cefc44a9b6bceb20489c5bb0e0e\AndroidManifest.xml:2:1-9:12
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:2:5-27
-		INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:2:5-27
+		INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
-		INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
-		INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:4:5-67
-MERGED from [:react-native-firebase] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-67
-MERGED from [:react-native-firebase] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-67
+ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-67
 MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.4.aar\03b298171fe66bbec0e24c67611e165d\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.4.aar\03b298171fe66bbec0e24c67611e165d\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.5.0.aar\dd321fed2bbc356029cdeff735410b61\AndroidManifest.xml:22:5-67
@@ -96,15 +96,15 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.5.0.aar\0d15d18bb9aeefaffca326753da5f336\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.5.0.aar\0d15d18bb9aeefaffca326753da5f336\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:5:5-77
+ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:5:22-75
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:5:22-75
 application
-ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\8a3f7d2f1ac9b6d59e2f15b36bf31354\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\8a3f7d2f1ac9b6d59e2f15b36bf31354\AndroidManifest.xml:11:5-20
+ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\165d4dbaabfbd697f94b61343e2e7ba2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\165d4dbaabfbd697f94b61343e2e7ba2\AndroidManifest.xml:11:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\378867e0c9421f74368a5c56ad7eccf8\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\378867e0c9421f74368a5c56ad7eccf8\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.5.0.aar\55b68a933c98d044a2993d76c8bb5b2b\AndroidManifest.xml:7:5-20
@@ -148,49 +148,49 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\khoda\.gradle\caches
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c8573feb544b0b996b753fe57ff56ec1\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:9:7-39
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:10:7-41
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:10:7-41
 	android:allowBackup
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:8:7-38
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:8:7-38
 activity#com.mall_nav.MainActivity
-ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:13:7-22:18
+ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:17:9-51
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:16:9-79
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:14:9-37
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:18:9-21:25
+ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:19:13-65
+ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:19:21-62
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:20:13-73
+ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:20:23-70
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:23:7-84
+ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml:23:17-81
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
-MERGED from [:react-native-firebase] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-firebase] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-gesture-handler] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\8a3f7d2f1ac9b6d59e2f15b36bf31354\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\8a3f7d2f1ac9b6d59e2f15b36bf31354\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-firebase] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-firebase] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-gesture-handler] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\165d4dbaabfbd697f94b61343e2e7ba2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\165d4dbaabfbd697f94b61343e2e7ba2\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\41d9a02251b33efed469e1d05fc4fe24\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\41d9a02251b33efed469e1d05fc4fe24\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.9] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.9.aar\378867e0c9421f74368a5c56ad7eccf8\AndroidManifest.xml:5:5-44
@@ -301,18 +301,18 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\khoda\.gradle\caches
 MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\2a5d801a8aebe0ac40bfd436bf5ca78d\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\1a686cefc44a9b6bceb20489c5bb0e0e\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\1a686cefc44a9b6bceb20489c5bb0e0e\AndroidManifest.xml:5:5-7:41
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-firebase] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-68
+ADDED from [:react-native-firebase] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.5.0.aar\dd321fed2bbc356029cdeff735410b61\AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.5.0.aar\dd321fed2bbc356029cdeff735410b61\AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.2.aar\4ff47f118344bc74b7254fafa87fb333\AndroidManifest.xml:24:5-68
@@ -324,9 +324,9 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.5.0.aar\0d15d18bb9aeefaffca326753da5f336\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.5.0.aar\0d15d18bb9aeefaffca326753da5f336\AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [:react-native-firebase] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-65
+		ADDED from [:react-native-firebase] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-firebase] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-79
+ADDED from [:react-native-firebase] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-79
 MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.4.aar\03b298171fe66bbec0e24c67611e165d\AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.4.aar\03b298171fe66bbec0e24c67611e165d\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.5.0.aar\dd321fed2bbc356029cdeff735410b61\AndroidManifest.xml:23:5-79
@@ -340,7 +340,7 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.5.0.aar\0d15d18bb9aeefaffca326753da5f336\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.5.0.aar\0d15d18bb9aeefaffca326753da5f336\AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [:react-native-firebase] C:\Users\khoda\Desktop\COS 301\Capstone\cos301_brute_force\Code\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-76
+		ADDED from [:react-native-firebase] C:\Users\khoda\Desktop\BruteForce Git\cos301_brute_force\Code\node_modules\react-native-firebase\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:22-76
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.5.0.aar\dd321fed2bbc356029cdeff735410b61\AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-iid:17.1.2] C:\Users\khoda\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.1.2.aar\4ff47f118344bc74b7254fafa87fb333\AndroidManifest.xml:29:9-35:19

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\khoda\\Desktop\\COS 301\\Capstone\\cos301_brute_force\\Code\\Code\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz\\values-uz.xml",
+            "outputFile": "C:\\Users\\khoda\\Desktop\\BruteForce Git\\cos301_brute_force\\Code\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz\\values-uz.xml",
             "map": [
                 {
                     "source": "C:\\Users\\khoda\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\fe8004ba04fd985f9fe74cdd2fc9aafb\\res\\values-uz\\values.xml",

@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
         return "Mall_Nav";
     }
     // Write a message to the database
-    FirebaseDatabase database = FirebaseDatabase.getInstance();
+    /*FirebaseDatabase database = FirebaseDatabase.getInstance();
     DatabaseReference myRef = database.getReference("message");
 
     myRef.setValue("Hello, World!");
@@ -39,7 +39,7 @@ public class MainActivity extends ReactActivity {
                 Log.w(TAG, "Failed to read value.", error.toException());
             }
         });
-    }
+    }*/
 
 
 

@@ -22,6 +22,10 @@
 
 //import { SQLite } from 'expo';
 
+
+
+
+
 /**
  * Purpose		: This class is used to establish a database connection with SQLite
  * 
@@ -118,3 +122,4 @@
 	}
 }
 */
+

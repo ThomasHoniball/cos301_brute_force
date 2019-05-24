@@ -6,9 +6,32 @@ import Cart from './app/components/Cart';
 import Search from './app/components/Search';
 import Scan from './app/components/Scan';
 import {createStackNavigator, createAppContainer} from 'react-navigation';
+import Firebase from 'firebase';
+
+
+
+
 
 class App extends React.Component {
 
+  componentWillMount()
+	{
+		 // Your web app's Firebase configuration
+		var firebaseConfig = {
+			apiKey: "AIzaSyDVhQd3G31dnvQg1BhPOcmtIZ65FeNLZaw",
+			authDomain: "bruteforce-d8058.firebaseapp.com",
+			databaseURL: "https://bruteforce-d8058.firebaseio.com",
+			projectId: "bruteforce-d8058",
+			storageBucket: "bruteforce-d8058.appspot.com",
+			messagingSenderId: "217456283824",
+			appId: "1:217456283824:web:f2650b7c748d147c"
+		};
+		// Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    
+    //console.log(firebase)
+  }
+  
   constructor(props){
     super(props);
   }

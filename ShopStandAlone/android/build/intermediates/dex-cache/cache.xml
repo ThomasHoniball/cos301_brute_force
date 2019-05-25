@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1cde19cbf9be88547ab4b7f03668eac5d91bd611">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-11.6.0_159df3100f77f94449acd30836f0b6e46e17d13d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-11.6.0_a9012b183d635ee40eca8726c552803f23aa1563.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dlami\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_769f6a29b7ab4a96f14c2256449ac8f957d9bda0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_d77f1c0c862729a0068e4348727805064219f70e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cd1ff651ddb8608e9c4037f3d9ab475e9472abb2">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-11.6.0_60f425d985d2ff10d5221d4e03051c3764822f6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dlami\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_85d359ce938899f099c138ab9c1fec8a44300814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dlami\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_4d39b9981ad1e77f73629a03c17553eb276b94bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_5b61770e965dcdf642c14b9013e90ad586e6ab81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_bee823c03fd52ab42e381695a798370b129de7e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_5cba3f9c45f25c032147f70ad4e6fd4fae52f446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_66c1ddb7aa7374e75c92eaa8303139a1956cc6fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dlami\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_c947ab4978b690fc9c668742a93ba025db20326f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.51.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.51.0_4455eaffd06e35ab88071b50914d318c6b61e9dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-11.6.0_32b2367ecc4931528f0ecc6e0ff53d3eab1f7755.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="47bcd0b3eac50dbe2f150987250a6507e10ef28a">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-11.6.0_bd711da88af59c7ca0f5800f75354693169bc743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e248ca8de03706c4b65343b7ebbca305df0a5f36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\ShoppingCart\react-native-firebase\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6db66cab7a7cb4694d0dba8047da66a5cfa5dbf2">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\ShoppingCart-react-native-firebase-unspecified_6d6a09979129864fad9d24a12a3b77120e4ff4c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.51.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_3cc9f73f218bd7d09bc496b1a436ade5b98292d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-11.6.0_a1130cf3d085a91984b6892f3fae334c249d8e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b8fd995f9c6c2caeb49827f0b52e0e8cc621e0">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-11.6.0_717a8888ae5a5505366bfcdf40f8b3a49563dcdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="da443aff9cd3c2cd75b957e0547e1ca2c4f30308">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-11.6.0_aefebe7ea89a50f24f12e74cf94bdb7e9d9ea8d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dlami\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_9076adec2a952a09aa72579e51cc1219ff4c6562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dlami\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_231c03a57946fc9a8d3dac62a0afdb1e6febbe26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_0a8f8f52c5948b15ae9a7485deba48856eb47a50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e4a9d8510de319af17459d3ec70e23559b83495b">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-11.6.0_53254ddeb796e3b669df4eae0b32cfb73bdd037e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d6399340139f67ce4faba06e97f256ef0d6817c0">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-11.6.0_282633186db5a1707fd84a4815ae6d2e0865aeba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\ShoppingCart\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="279750fed3c920d06351dbf32889c1b48203c7ad">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\ShoppingCart-react-native-vector-icons-unspecified_f1c076db1d224dd742c78c61b07a56704b827403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_2def4612b51c48138910261d86ca4f52147862e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dlami\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_9f68343f962e0b3889009ef25bf9d37e84877d65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\ShoppingCart\react-native-config\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45586990f4e58db6e2dcad1eeb38f0179ba6b06d">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\ShoppingCart-react-native-config-unspecified_9d12dd357e418b1189c9bf05803e1dd44df749f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dlami\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_f3c0907c1b2a87f5ff7e61a72a7e7c80b9cff937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_831bb76c1e8a0adfc97e31cd44da3ac9e261ac7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_129636e8b62ef441ebf944fd5302370b8ad84eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_60ba1cd22cf666585d2ff0ec9a295be8c0bc5caf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_54e59bc7c6b510096eaf7efcf9f89d59a51b6394.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_b625e8b63ce01551a01e45662478db6fc9c19b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_f3b5eeb251a0db9ae1d118960e1c54ddad6f8d62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="G:\Users\User\workspaces\React Workspace\ShoppingCart-develop\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_c3134ac3e126b82e2f7475a55c74652ec14e1f91.jar" />
+    </item>
+
+</items>
